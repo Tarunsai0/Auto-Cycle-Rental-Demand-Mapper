@@ -34,7 +34,6 @@ redistribution = pd.read_csv(
 
 
 stations = station_analysis["start_station"].unique().tolist()
---
 
 def convert_to_demand_level(value):
 

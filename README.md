@@ -1,6 +1,8 @@
 
 # 🚲 Auto Cycle-Rental Demand Mapper
+ Project Demo
 
+[Open Google Colab Notebook](https://colab.research.google.com/drive/1jz1ZyQ4hBRmeDo4o6icEdAaq3UR4oHlK?usp=sharing)
 An end-to-end Machine Learning project that predicts cycle rental demand at different stations and recommends how bikes should be redistributed between stations.
 
 ## 🎯 Problem Statement

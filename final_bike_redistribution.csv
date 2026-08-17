@@ -1,0 +1,10 @@
+from_station,to_station,bikes_to_move
+Bus Stop,Academic Block,101
+Canteen,Academic Block,83
+Canteen,Hostel A,5
+Parking Area,Hostel A,71
+Sports Complex,Hostel A,59
+Sports Complex,Library,2
+Admin Block,Library,49
+Main Gate,Library,38
+Hostel B,Library,3
